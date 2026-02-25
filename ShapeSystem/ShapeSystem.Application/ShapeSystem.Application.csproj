@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShapeSystem.Domain\ShapeSystem.Domain.csproj" />
+    <ProjectReference Include="..\ShapeSystem.Infrastructure\ShapeSystem.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

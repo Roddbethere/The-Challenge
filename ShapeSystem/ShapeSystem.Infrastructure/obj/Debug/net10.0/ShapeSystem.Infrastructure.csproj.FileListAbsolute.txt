@@ -1,0 +1,11 @@
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\bin\Debug\net10.0\ShapeSystem.Infrastructure.deps.json
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\bin\Debug\net10.0\ShapeSystem.Infrastructure.dll
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\bin\Debug\net10.0\ShapeSystem.Infrastructure.pdb
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ShapeSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ShapeSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ShapeSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ShapeSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ShapeSystem.Infrastructure.dll
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\refint\ShapeSystem.Infrastructure.dll
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ShapeSystem.Infrastructure.pdb
+C:\Users\roddy\OneDrive - University of Pittsburgh\2026_Spring\OOP\ShapeSystem\ShapeSystem.Infrastructure\obj\Debug\net10.0\ref\ShapeSystem.Infrastructure.dll

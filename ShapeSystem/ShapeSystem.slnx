@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ShapeSystem.Application/ShapeSystem.Application.csproj" />
+  <Project Path="ShapeSystem.Console/ShapeSystem.Console.csproj" />
+  <Project Path="ShapeSystem.Domain/ShapeSystem.Domain.csproj" />
+  <Project Path="ShapeSystem.Infrastructure/ShapeSystem.Infrastructure.csproj" />
+</Solution>
